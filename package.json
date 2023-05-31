@@ -1,0 +1,20 @@
+{
+  "name": "simple-webpage-that-shows-the-current-time",
+  "version": "0.92.12",
+  "description": "Get the current time and display it on the page",
+  "author": "jahaziel>",
+  "keywords": [
+    "node",
+    "day.js"
+  ],
+  "type": "module",
+  "main": "js/script.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node js/script.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "micromodal": "^0.4.10"
+  }
+}
